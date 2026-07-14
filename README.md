@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **HTML5, CSS3, JavaScript, jQuary, Bootstrap, PHP, MySQL, Wordpress.**
 
-- 💬 Ask me about **Web Design, Web Development, Wordpress Development, Web Aplication.**
+- 💬 Ask me about **Web Design, Web Development, Wordpress Development, Web Application.**
 
 - 📫 How to reach me **abflkoruna@gmail.com**
 
