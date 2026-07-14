@@ -1,6 +1,6 @@
 <img src="https://www.facebook.com/photo/?fbid=4070586366407855&set=a.186785494787981" width="100%" />
 <h1 align="center">Hi 👋, I'm Most. Umma Kulsum</h1>
-<h3 align="center">A passiPassionate web designer, developer, and WordPress expert with a strong focus on creating user friendly, responsive websites.onate frontend developer from India</h3>
+<h3 align="center">Passionate web designer, developer, and WordPress expert with a strong focus on creating user friendly, responsive websites.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=webdevelopermuk&label=Profile%20views&color=0e75b6&style=flat" alt="webdevelopermuk" /> </p>
 
