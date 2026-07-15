@@ -1,4 +1,4 @@
-<img src="https://github.com/WebDeveloperMUK/WebDeveloperMUK/blob/main/banner1.png">
+<img src="https://github.com/WebDeveloperMUK/WebDeveloperMUK/blob/main/banner1.jpg">
 <h1 align="center"> I'm Most. Umma Kulsum</h1>
 <h3 align="center">Passionate web designer, developer, and WordPress expert with a strong focus on creating user friendly, responsive websites.</h3>
 
